@@ -1,11 +1,11 @@
 {
-    "name": "SquidGames-Launcher",
-    "preductname": "SquidGames Launcher",
+    "name": "DarkTeam-Launcher",
+    "preductname": "DarkTeam Launcher",
     "version": "1.1.1",
-    "description": "Launcher Mincraft por HypnoStudios",
+    "description": "MrDark",
     "main": "src/app.js",
-    "author": "HypnoStudios",
-    "url": "http://s922434499.onlinehome.mx/hypnostudios/squidgames/launcher",
+    "author": "MrDark",
+    "url": "https://github.com/negativocovid/nowork.git",
     "engines": {
         "node": "^16.x.x"
     },
@@ -34,6 +34,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Hypnos0110/SquidGamesLauncher.git"
+        "url": "git+https://github.com/negativocovid/nowork.git"
     }
 }
